@@ -39,8 +39,9 @@ keywords = {WebGL, eyes, gaze, human animation, soft tissue},
 ```
 
 ### Acknowledgement
-- Web App	made using Three.js and dat.gui
-- Mesh and textures from the Wikihuman Project and Infinite Realities
-- Eye shader based on work of Artur Vill
-- Screen space subsurface scattering as in Separable Subsurface Scattering Uses Separable SSS. Copyright (C) 2012 by Jorge Jimenez and Diego Gutierrez.
-- Environment texture from hdrlabs.com
+- Web App	made using [Three.js](http://threejs.org/) and [dat.gui](https://github.com/dataarts/dat.gui)
+- Mesh and textures from the [Wikihuman Project](http://gl.ict.usc.edu/Research/DigitalEmily2/) and Infinite Realities](http://ir-ltd.net/)
+- Eye shader based on work of [Artur Vill](http://www.vill.ee/eye/)
+- Screen space subsurface scattering as in [Separable Subsurface Scattering ](http://www.iryoku.com/separable-sss/)
+- Uses Separable SSS. Copyright (C) 2012 by Jorge Jimenez and Diego Gutierrez.
+- Environment texture from [hdrlabs.com](http://hdrlabs.com/)
