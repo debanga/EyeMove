@@ -17,6 +17,7 @@ We propose a system for real-time animation of eyes that can be interactively co
 #### [Paper](http://www.cs.ubc.ca/research/eyemoveweb3d16/Interactive%20Gaze%20Driven%20Animation%20of%20the%20Eye%20Region.pdf)
 #### [Video](http://www.cs.ubc.ca/research/eyemoveweb3d16/Interactive_gaze_drive_animation_of_eyes.mov)
 
+### Citation
 ```
 Bibtex	@inproceedings{Neog:2016:IGD:2945292.2945298, 
 author = {Neog, Debanga R. and Cardoso, Jo\~{a}o L. and Ranjan, Anurag and Pai, Dinesh K.},
