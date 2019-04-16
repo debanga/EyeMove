@@ -1,4 +1,4 @@
-## Interactive Gaze Driven Animation of the Eye Region
+# Interactive Gaze Driven Animation of the Eye Region
 ##### Proceedings of the 21st International Conference on 3D Web Technology (Web3D '16, Best Paper Award)
 Debanga R. Neog, Joao L. Cardoso , Anurag Ranjan, Dinesh K. Pai, 
 Sensorimotor Systems Laboratory, University of British Columbia
@@ -10,12 +10,12 @@ We describe a complete pipeline to model skin deformation around the eyes as a f
 We propose a system for real-time animation of eyes that can be interactively controlled in a WebGL enabled device using a small number of animation parameters, including gaze. These animation parameters can be obtained using traditional keyframed animation curves, measured from an actor’s performance using off-the-shelf eye tracking methods, or estimated from the scene observed by the character, using behavioral models of human vision. We present a model of eye movement, that includes not only movement of the globes, but also of the eyelids and other soft tissues in the eye region. The model includes formation of expression wrinkles in soft tissues. To our knowlwdge this is the first system for real-time animation of soft tissue movement around the eyes based on gaze input.
 
 ## App is available in the following links  	
-#### [Desktop App](http://www.cs.ubc.ca/research/eyemoveweb3d16//webapp/desktop.html) 
-#### [Mobile App](http://www.cs.ubc.ca/research/eyemoveweb3d16//webapp/mobile.html) 
+- [Desktop App](http://www.cs.ubc.ca/research/eyemoveweb3d16//webapp/desktop.html) 
+- [Mobile App](http://www.cs.ubc.ca/research/eyemoveweb3d16//webapp/mobile.html) 
 
 ## The paper and supplimentary video available here:
-#### [Paper](http://www.cs.ubc.ca/research/eyemoveweb3d16/Interactive%20Gaze%20Driven%20Animation%20of%20the%20Eye%20Region.pdf)
-#### [Video](http://www.cs.ubc.ca/research/eyemoveweb3d16/Interactive_gaze_drive_animation_of_eyes.mov)
+- [Paper](http://www.cs.ubc.ca/research/eyemoveweb3d16/Interactive%20Gaze%20Driven%20Animation%20of%20the%20Eye%20Region.pdf)
+- [Video](http://www.cs.ubc.ca/research/eyemoveweb3d16/Interactive_gaze_drive_animation_of_eyes.mov)
 
 ### Citation
 ```
